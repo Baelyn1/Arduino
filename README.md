@@ -87,7 +87,11 @@ primeras pruebas.md
 
 
 
+-Morse 1--- Hicimos modificaciones en el còdigo 
 
+-Morse 2
+
+-Morse 3
 
 
 
