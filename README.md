@@ -95,6 +95,22 @@ primeras pruebas.md
 
 
 
+-diguital write (LED_Bultin,hig);
+
+-deplay (1000);
+
+-a digital write (LED_builtin,)
+
+deplay
+
+eje 50 = 0,05
+
+
+
+Hicimos un curso largo (de) y un curso corto (de)
+
+
+
 
 
 
