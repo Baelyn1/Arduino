@@ -38,6 +38,7 @@ Vamos a añadir un botón al pin 3 de tal forma que sólo cuando se pulse el led
 Tareas
 
 1 Documentar y hacer interfaz de nave.md
+https://github.com/Baelyn1/Arduino/blob/main/interfaz_de_nave_espacial.ino 
 
 2 Hacer la variacion del botón por hardware
 
