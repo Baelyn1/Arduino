@@ -52,3 +52,4 @@ https://github.com/Baelyn1/Arduino/blob/main/interfaz_de_nave_espacial.ino
 
 
 
+
