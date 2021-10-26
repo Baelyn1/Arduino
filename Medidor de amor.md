@@ -22,5 +22,7 @@ for(pinumber 2; pinumber-5 ;
 hantarta();
 
 Escribir Numero(pinNumber);
-}
+pinmode(
+dw (
 
+}
