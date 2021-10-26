@@ -62,6 +62,16 @@ pasar de d-1023 a temperatuea en  C
 
 -Decir que Leds se encienden
 
+I) (temperaturas  becalteting),(
+
+
+gw(2,low);
+gw(3,low);
+gw(4,low);
+y else
+
+
+
 
 
 
