@@ -45,14 +45,14 @@ a valores entre 0 y 1023 segun
 
 y 1023 significa 5v
 
+Serial. punto (*sense valor*,);
+Serial. punto (sensor val);
+
+voat voltaje = (sensorvolt/10240)*5.0;
 
 
 
-
-
-
-
-
+   =voltaje-,ds)*100
 
 
 
