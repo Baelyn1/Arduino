@@ -25,6 +25,24 @@
 
 
 Interfaz nave: medidor de amor
+
+
+## Resultao
+
+
   
-  
-  
+## Variaciones
+
+
+
+
+
+
+
+
+
+
+
+
+
+
