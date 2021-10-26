@@ -19,6 +19,10 @@ El LED verde permanecerá encendido hasta que pulses un botón. Cuando el Arduin
 -explicaciom
 -Enlace del codigo utilizado
 
+Código: 
+
+https://github.com/Baelyn1/Arduino/blob/main/interfaz_de_nave_espacial.ino
+
 ## Resultado
 
 -Estado si funciona o no funciona
