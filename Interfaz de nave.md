@@ -43,9 +43,7 @@ https://github.com/Baelyn1/Arduino/blob/main/interfaz_de_nave_espacial.ino
 
 2 Hacer la variacion del botón por hardware
 
-recent:///217daef2356125557ead31cc6177c395 
-
-
+file:///tmp/mozilla_usuario0/IMG_2508.JPG
 
 
 
