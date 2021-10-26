@@ -7,7 +7,7 @@
 
 ## Introduccion teorica
 
-
+El LED verde permanecerá encendido hasta que pulses un botón. Cuando el Arduino reciba una señal del botón, la luz verde se apagará y las otras 2 luces empezarán a parpadear.
 
 ## Proceso de montaje
 -materiales necesarios {Leds,
@@ -26,3 +26,24 @@
 ## Variación
 
 ### Añadir un botón por hardware. 
+
+Vamos a añadir un botón al pin 3 de tal forma que sólo cuando se pulse el led 3 se encontrará. El resto del 
+
+
+
+Tareas
+
+1 Documentar y hacer interfaz de nave.md
+
+2 Hacer la variacion del botón por hardware
+
+
+
+
+
+
+
+
+
+
+
