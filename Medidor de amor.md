@@ -26,3 +26,44 @@ pinmode(
 dw (
 
 }
+
+pinmode(2, outpur¡t);
+AN(2,LAW);
+PinMode(3, Output
+
+
+
+# LOUP
+
+int senser Wolz = analegRaout(
+
+Esta linea lee el voltaje que tiene el pin
+
+sin un pin ( en este ese AO) y la marca
+
+a valores entre 0 y 1023 segun 
+
+y 1023 significa 5v
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
