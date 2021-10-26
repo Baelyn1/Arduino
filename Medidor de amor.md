@@ -54,13 +54,13 @@ voat voltaje = (sensorvolt/10240)*5.0;
 
    =voltaje-,ds)*100
 
+-LEER SENSORES
 
+Tratar los datos del sensor
 
+pasar de d-1023 a temperatuea en  C
 
-
-
-
-
+-Decir que Leds se encienden
 
 
 
