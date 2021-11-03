@@ -65,7 +65,7 @@ DW(4,LOW),
 
 Dos botones
 
--Ejercicio
+-Ejercicio 1
 
 Vamso a conectar 2 botones y 2 LEDS
 
@@ -168,6 +168,31 @@ void loop () {
 
 
 }// LLAVE DEL LOOP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
