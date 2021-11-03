@@ -67,7 +67,7 @@ Dos botones
 
 -Ejercicio 1
 
-Vamso a conectar 2 botones y 2 LEDS
+Vamso a conectar 2 botones y 2 LEDS yeso hace que cuando se aprieta un boton se encienda un LED y cuando se aprieta el segundo se enciende el segundo LED
 
 Haremos diferentes programas con diferentes comportamientos
 
@@ -125,7 +125,7 @@ void loop () {
 
 -EJERCICIO 2
 
-
+Si se aprietan ambos botones se enciende, pero si se pulsa uno o ninguno no se enciende.
 
 SI PULSAMOS CUALQUIERA DE LOS BOTONES
 
@@ -171,5 +171,6 @@ void loop () {
 
 
 
+EJERCICIO 3
 
-
+PROVAR A USAR EL OPERADOR NO
