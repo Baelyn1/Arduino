@@ -135,11 +135,39 @@ SI NO APAGAR
 
 OPERADORES 2_INO
 
+int estadoBotonPin2 = 0;
+int estadoBotonPin3 = 0;
+void setup() {
+
+ pinMode (2,INPUT);
+ pinMode (3,INPUT);
+ pinMode (4,OUTPUT);
+ pinMode (5,OUTPUT);
+
+ Serial.begin (9600);
+}
+
+void loop () {
+  estadoBotonPin2 = digitalRead(2);
+  estadoBotonPin3 = digitalRead(3);
+  
+   Serial.print("estado del boton 2: ");
+   Serial.println(estadoBotonPin2);
+   Serial.print("estado del boton 3: ");
+   Serial.println(estadoBotonPin3);
+
+    //Supongo que los botones están conectados para ser NEGAR el pulsador
+  if ( estadoBotonPin2 == HIGH &&  estadoBotonPin3 == HIGH) {
+   digitalWrite(4,HIGH);
+   digitalWrite(5,HIGH);
+   }
+   else {
+       digitalWrite(4,LOW);
+   digitalWrite(5,LOW);
+   }
 
 
-
-
-
+}// LLAVE DEL LOOP
 
 
 
