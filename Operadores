@@ -52,9 +52,35 @@ Diguital Write (s,h)
 Diguital Write (4, LOW)
 
 
+ELSE IF (TEMPERATURE >= Baselintang+2 &&
+         TEMPERATURE <  Baselintang+4){
 
-ELSE IF (TEMPERATURE >= 6
-         TEMPERATURE <  6
+DW(2,HIGH),
+DW(3,HIGH),
+DW(4,LOW),
+
+} ELSE IF
+
+
+
+Dos botones
+
+-Ejercicio
+
+Vamso a conectar 2 botones y 2 LEDS
+
+Haremos diferentes programas con diferentes comportamientos
+
+Para poner un boton necesitamos una resistencia de 10.000 (ohmnios) Estas son las que tienen cuerpo beige y una linea naranja
+
+Pin --- aon5v  --- 5v
+
+Esquema 
+
+Ordenaores. ME
+
+Por defecto mapa
+-o "Pulled -HIGH"
 
 
 
