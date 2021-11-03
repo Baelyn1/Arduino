@@ -100,17 +100,27 @@ Que la resistencia va detras o delante del LED
 Conectaremos dos LEDS--  UNO AL PING 4 Y EL OTRO AL PIN 5
 
 
+int estadoBotonPin2 = 0;
+int estadoBotonPin3 = 0;
+void setup() {
 
+ pinMode (2,INPUT);
+ pinMode (3,INPUT);
+ pinMode (4,INPUT);
+ pinMode (5,INPUT);
 
+ Serial.begin (9600);
+}
 
-
-
-
-
-
-
-
-
+void loop () {
+  estadoBotonPin2 = digitalRead(2);
+  estadoBotonPin3 = digitalRead(3);
+  
+   Serial.print("estado del boton 2: ");
+   Serial.println(estadoBotonPin2);
+   Serial.print("estado del boton 3: ");
+   Serial.println(estadoBotonPin3);
+}
 
 
 
