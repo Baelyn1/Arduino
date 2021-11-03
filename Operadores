@@ -1,1 +1,63 @@
+Y
+O
+N/O
+
+IF  (_____) Condicion si(TRUE)
+                      no(FALSE)
+
+Output-- Stiven activate
+
+
+
+{
+-----0
+
+
+
+
+Temperatura
+ (  -80C
+Sensoriale()
+
+
+
+## LEER PIN
+
+Otras formaciones y de regalo la pinales en pinalle
+
+
+
+-DECIDIR
+
+  < 20
+  MENOR QUE
+  
+  
+  DIGUITAL WRITE (DW ) Es una funcion
+
+Que nos pide un número de pin y el valor HIGH  
+  
+Si el valor es HIGH, La placa suministra 5v su en ese fin  
+
+Si el vaolor el valor es LOW
+
+Si hay 5v se activaran los circuitos Si es 5v no se activara
+
+*Depende del hardware y como esté
+
+
+
+Diguital Write (s,h)
+
+Diguital Write (4, LOW)
+
+
+
+ELSE IF (TEMPERATURE >= 6
+         TEMPERATURE <  6
+
+
+
+
+
 
