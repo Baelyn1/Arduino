@@ -125,7 +125,7 @@ void loop () {
 
 -EJERCICIO 2
 
-ENCENDER LOS 2 LEDS 
+
 
 SI PULSAMOS CUALQUIERA DE LOS BOTONES
 
@@ -168,37 +168,6 @@ void loop () {
 
 
 }// LLAVE DEL LOOP
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
