@@ -21,7 +21,7 @@ Entonces si conecto un LED con su resistencia de 200 veinte
 
 A un voltaje de 5V o de 3,3V
 
-¿Entonces brillara mas con 5V y menos con 3,3V
+¿Entonces brillara mas con 5v y menos con 3,3v
 
 Pulsos
 
@@ -34,6 +34,24 @@ Un Pulso uso electrico es una señal de voltaje medida en el tiempo.
 Los ojos humanos podemos detectar cambios hasta entorno a 12h3 
 
 Apartir de 24 o 30 h3 no somos capaces visualmente
+
+Los Pulsos modulados en ancho
+
+Crean la ilusion de voltajes intermedios entre o y 5v
+
+Para ello usan pulsos muy cortos
+
+Que usaremos a traves de Funcion 
+
+Esta funcion funcionara en Pines con Piln
+
+
+
+
+
+
+
+
 
 
 
