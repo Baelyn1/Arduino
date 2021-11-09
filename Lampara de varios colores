@@ -1,4 +1,4 @@
-## Pum (Pulse width modulation
+## Pum (Pulse width modulation)
 
 Modulacion por ancho de Pulsos
 
@@ -15,9 +15,10 @@ A menor intensidad de corriente el Led brilla menos (ver ley de OHM)
 
 Si subimos o bajamos el voltaje haremos lo mismo con la intensidad 
 
-Suponiendo que tenemos una 
-
 Suponiendo que la resistencia del circuito es la misma
 
+Entonces si conecto un LED con su resistencia de 200 veinte 
 
+A un voltaje de 5V o de 3,3V
 
+¿
