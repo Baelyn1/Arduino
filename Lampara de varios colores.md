@@ -76,6 +76,6 @@ float---- que son numeros decimales
 
 
 
-![](recent:///a71b6f13d16ddbe2243fa476618a6fcd)
+![](https://raw.githubusercontent.com/Baelyn1/Arduino/main/Captura%20de%20pantalla%20de%202021-11-09%2014-04-49.png)
 
 
