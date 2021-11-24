@@ -59,5 +59,10 @@ En el proceso de la programacion en arduino se produjeron ubos tres errores meno
 
 
 
+## Variante
+
+En la variante que haremos sera una en la que funcionara como un boton de hartware 
+
+
 
 
