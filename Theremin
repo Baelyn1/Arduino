@@ -1,1 +1,9 @@
 # Theremin óptico
+
+Un theremin es un instrumento que produce sonido en base a los movvimientos de las manos del músico alrededor del instrumento.
+Probablemente hayas escuchado alguno en películas de terror. El theremin detecta dónde están las manos del músico en relación a dos antenas,
+leyendo la transformación capacitiva en las antenas.
+Estas antenas están conectadas a un circuito analógico que crea el sonido. Una antena controla la frecuencia del sonido, y la otra controla el volumen.
+Aunque el Arduino no pueda replicar exactamente los sonidos misteriosos de este instrumento, es posible emularlos usando la función tone(). 
+La Figura 1 representa la diferencia entre los pulsos emitidos por analogWrite() y tone(). Esto permite que un transductor, como altavoz o un piezo, 
+se mueva hacia delante y hacia atrás a diferentes velocidades.
