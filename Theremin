@@ -7,3 +7,9 @@ Estas antenas están conectadas a un circuito analógico que crea el sonido. Una
 Aunque el Arduino no pueda replicar exactamente los sonidos misteriosos de este instrumento, es posible emularlos usando la función tone(). 
 La Figura 1 representa la diferencia entre los pulsos emitidos por analogWrite() y tone(). Esto permite que un transductor, como altavoz o un piezo, 
 se mueva hacia delante y hacia atrás a diferentes velocidades.
+
+
+
+
+
+
