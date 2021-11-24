@@ -110,3 +110,20 @@ void checkButton(){
 
 }
 ``` 
+
+
+
+
+
+Frangmento de código que no funciona por si mismo que sirve para una funcion concreta.
+
+Los snipes se copian, se pegan y, mente se adaptan al código a mano por le programadores.
+
+
+
+
+
+
+
+
+
