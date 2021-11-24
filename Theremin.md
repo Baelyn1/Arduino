@@ -70,8 +70,13 @@ En la variante que haremos sera una en la que funcionara como un boton de hartwa
 
 
 
+### Snippet Kill Switch 
 
+Esto viene de: github.com/chechiliaa/arduino
 
+https://github.com/chechiliaa/arduino/blob/main/snippet_kill_switch.cpp
+
+``` C++
 
 //Colocar en la sección de variables globales.
 int switchState = 0;
@@ -104,4 +109,4 @@ void checkButton(){
   }
 
 }
-
+``` 
