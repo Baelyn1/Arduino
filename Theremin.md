@@ -61,8 +61,47 @@ En el proceso de la programacion en arduino se produjeron ubos tres errores meno
 
 ## Variante
 
-En la variante que haremos sera una en la que funcionara como un boton de hartware 
+En la variante que haremos sera una en la que funcionara como un boton de hartware y dandole al software unos ajustes.
 
 
 
+
+
+
+
+
+
+
+
+//Colocar en la sección de variables globales.
+int switchState = 0;
+bool isTheButtonBeingPressed = false;
+bool play = false;
+
+int buttonPin = 2;
+// Incluir dentro del setup.
+pinMode(buttonPin, INPUT);
+//Sustituir loop.
+
+void loop() {
+  checkButton();
+  if (play) {
+  // incluir aquí el código a ejecutar   
+  }
+}
+
+//función checkbutton 
+void checkButton(){
+  switchState = digitalRead(buttonPin);
+  if (switchState == HIGH && !isTheButtonBeingPressed){
+    play = !play;
+    isTheButtonBeingPressed = true;
+  }
+  
+  if (switchState == LOW)
+  {
+  isTheButtonBeingPressed = false;
+  }
+
+}
 
