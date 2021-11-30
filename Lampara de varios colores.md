@@ -108,7 +108,8 @@ int greenSensorValue = 0;
 int blueSensorValue = 0;
 
 void setup() {
-  Serial.begin(9600);
+
+Serial.begin(9600);
 
   pinMode(greenLEDPin, OUTPUT);
 
@@ -120,9 +121,13 @@ void setup() {
 void loop() {
 
  redSensorValue = analogRead(redSensorPin);
+ 
  delay(5);
+ 
  greenSensorValue = analogRead(greenSensorPin);
+ 
  delay(5);
+ 
  blueSensorValue = analogRead(blueSensorPin);
 
  Serial.print("Raw Sensor Values \t Red: ");
@@ -136,15 +141,17 @@ void loop() {
  greenValue = greenSensorValue/4;
  blueValue = blueSensorValue/4;
 
- Serial.print("Mapped Sensor Values \t Red: ");
- Serial.print(redValue);
- Serial.print("\t Green: ");
- Serial.print(greenValue);
- Serial.print("\t blue: ");
- Serial.print(blueValue);
+ Serial.print ("Mapped Sensor Values \t Red: ");
+ Serial.print (redValue);
+ Serial.print ("\t Green: ");
+ Serial.print (greenValue);
+ Serial.print ("\t blue: ");
+ Serial.print (blueValue);
 
  analogWrite(redLEDPin, redValue);
+ 
  analogWrite(greenLEDPin, greenValue);
+ 
  analogWrite(blueLEDPin, blueValue);
  
 }
