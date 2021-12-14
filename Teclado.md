@@ -50,20 +50,14 @@ En la parte de funcionamiento del hardware funciona en base a la "escalera de re
 
 
 ## Variacion:
-La variacion consiste en añadir un quinto bonton
+La variacion consiste en añadir un quinto bonton 
 
 [Este es el código](https://github.com/Baelyn1/Arduino/blob/main/teclado02.ino)
 
 
 ![](https://github.com/Baelyn1/Arduino/blob/main/IMG_2530.JPG)
 
-
-
-
-
-
-
-
+En el proceso de la variacion se creo en inspiracion a unos compañeros que habian hecho lo mismo, en la parte de hardwaro la parte fisica no se conectaba del todo bien pero con ayuda de una resistencia se soluciono. Tambein en el softwere hubo un problema en la perte de la potencia del sonido, pero ajustandolo se soluciono.
 
 
 
@@ -79,15 +73,6 @@ Añadio un potenciometro del caos
 tono [1] variacion
 
 Vamos a coguer los leds por capaboton
-
-
-
-
-
-
-
-
-
 
 
 
