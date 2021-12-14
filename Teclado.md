@@ -41,11 +41,52 @@ En la parte de funcionamiento del hardware funciona en base a la "escalera de re
 
 
 
+
+
+
+
+
+
+
+
+## Variacion:
+La variacion consiste en añadir un quinto bon
+
+![](https://github.com/Baelyn1/Arduino/blob/main/teclado02.ino)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El projecto de la Ainoa
 
 Añadio un potenciometro del caos
 
 tono [1] variacion
+
+Vamos a coguer los leds por capaboton
+
+
+
+
+
+
+
+
 
 
 
