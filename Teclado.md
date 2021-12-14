@@ -35,6 +35,13 @@ https://github.com/Baelyn1/Arduino/blob/main/teclado01.ino
 ![](https://raw.githubusercontent.com/Baelyn1/Arduino/main/IMG_2529.JPG)
 
 
+## Funcionamiento:
+
+En la parte de funcionamiento del hardware funciona en base a la "escalera de resistencia"
+
+
+
+
 
 
 
