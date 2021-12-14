@@ -50,7 +50,7 @@ En la parte de funcionamiento del hardware funciona en base a la "escalera de re
 
 
 ## Variacion:
-La variacion consiste en añadir un quinto bon
+La variacion consiste en añadir un quinto bonton
 
 ![](https://github.com/Baelyn1/Arduino/blob/main/teclado02.ino)
 
