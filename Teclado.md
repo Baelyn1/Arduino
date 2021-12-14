@@ -30,7 +30,9 @@ Este es el código que he usado:
 
 https://github.com/Baelyn1/Arduino/blob/main/teclado01.ino
 
-() [https://raw.githubusercontent.com/Baelyn1/Arduino/main/IMG_2529.JPG] 
+## Foto resultado
+
+![](https://raw.githubusercontent.com/Baelyn1/Arduino/main/IMG_2529.JPG)
 
 
 
