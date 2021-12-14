@@ -41,6 +41,12 @@ En la parte de funcionamiento del hardware funciona en base a la "escalera de re
 
 
 
+El projecto de la Ainoa
+
+Añadio un potenciometro del caos
+
+tono [1] variacion
+
 
 
 
