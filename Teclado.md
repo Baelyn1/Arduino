@@ -55,7 +55,7 @@ La variacion consiste en añadir un quinto bonton
 [Este es el código](https://github.com/Baelyn1/Arduino/blob/main/teclado02.ino)
 
 
-
+![](https://github.com/Baelyn1/Arduino/blob/main/IMG_2530.JPG)
 
 
 
