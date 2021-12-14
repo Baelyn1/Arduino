@@ -42,13 +42,6 @@ En la parte de funcionamiento del hardware funciona en base a la "escalera de re
 
 
 
-
-
-
-
-
-
-
 ## Variacion:
 La variacion consiste en añadir un quinto bonton 
 
