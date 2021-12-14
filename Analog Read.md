@@ -42,3 +42,8 @@ if(KeyVal == 1023){
   }
   }
 
+
+() [https://raw.githubusercontent.com/Baelyn1/Arduino/main/IMG_2529.JPG] 
+
+
+
