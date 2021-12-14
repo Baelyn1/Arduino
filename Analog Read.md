@@ -47,3 +47,7 @@ if(KeyVal == 1023){
 
 El proceso de programacion fue normal, colocar en su lugar el codigo en el orden coorrecto como marca en el libro de las paguinas: 83-85 donde ahi esta escrito el codigo.
 El montaje fue bien hasta que cuando se conecto todo salia un error de no funcionar en dos botones, se canviaron y sono como deberia de ser.
+
+
+
+
