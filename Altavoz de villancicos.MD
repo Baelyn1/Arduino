@@ -80,9 +80,10 @@ else{
 ```
 # Cancion de Rodolfo el Reno
 
-```C++
-
 En el proceso de programar el altavoz para poner la cancion tuvimos problemas para hacer que el tiempo de la cancion sonara como la cancion de Rodolfo el Reno, pero al final despues de poner los espacios pertinentes, se consiguio que sonara apropiadanente.
+
+
+```C++
 
 int switchStateKill = 0;
 bool isTheButtonBeingPressed = false;
