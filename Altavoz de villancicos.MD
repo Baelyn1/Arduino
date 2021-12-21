@@ -112,7 +112,7 @@ void loop(){
 void tocarMelodia(){
   tocarNota(1,0.5);
   tocarNota(2,1);
-  tocarNota(1,0.5);
+  tocarNota(-1,0.5);
   tocarNota(1,0.5);
   tocarNota(1,1);
   tocarNota(6,0.5);
