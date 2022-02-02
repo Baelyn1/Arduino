@@ -81,6 +81,8 @@ float---- que son numeros decimales
 
 ## Codigo:
 
+```C++
+
 const int greenLEDPin = 9;
 
 const int redLEDPin = 11;
@@ -168,7 +170,7 @@ void loop() {
  
 }
 
-
+```
 
 
 
