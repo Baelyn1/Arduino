@@ -17,7 +17,7 @@ Intensidad = Voltaje Dividido Resistencia
   
 https://github.com/Baelyn1/Arduino/blob/main/El_molinillo.ino
 
-# Imagen
+## Imagen
 
 https://github.com/Baelyn1/Arduino/blob/main/IMG_2560.JPG
 
