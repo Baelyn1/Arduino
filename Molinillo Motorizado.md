@@ -15,7 +15,7 @@ Intensidad = Voltaje Dividido Resistencia
 
   El codigo del molinillo es:
   
-
+https://github.com/Baelyn1/Arduino/blob/main/El_molinillo.ino
 
 
 
