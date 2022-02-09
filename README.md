@@ -22,7 +22,7 @@ Molinillo motorizado: https://github.com/Baelyn1/Arduino/blob/main/Molinillo%20M
 
 Reloj de arena digital: https://github.com/Baelyn1/Arduino/blob/main/Reloj%20de%20arena%20digital.md
 
-
+Zoótropo: https://github.com/Baelyn1/Arduino/blob/main/Zo%C3%B3tropo.md#zo%C3%B3tropo
 
 
 
