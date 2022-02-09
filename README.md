@@ -20,7 +20,7 @@ La bola de cristal: https://github.com/Baelyn1/Arduino/blob/main/La%20bola%20de%
 
 Molinillo motorizado: https://github.com/Baelyn1/Arduino/blob/main/Molinillo%20Motorizado.md#molinillo
 
-
+Reloj de arena digital: https://github.com/Baelyn1/Arduino/blob/main/Reloj%20de%20arena%20digital.md
 
 
 
