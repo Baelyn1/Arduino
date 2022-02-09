@@ -13,4 +13,8 @@ Unas imaguenes de ejemplos de palabras que se hizo en la maquina:
 
 ## Variaciones
 
-Estas son variaciones que cre yo para hacer chistes y tener mas variedad de frases, no tuve problemas en crearlos mas aya de pensar un poco en que escribir.
+Estas son variaciones que cre yo para hacer chistes y tener mas variedad de frases, no tuve problemas en crearlos mas aya de pensar un poco en que escribir:
+
+https://github.com/Baelyn1/Arduino/blob/main/La_bola_de_cristal_variacion_.1_.ino
+
+https://github.com/Baelyn1/Arduino/blob/main/La_bola_de_cristal_variacion_.2_.ino
