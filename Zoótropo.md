@@ -78,3 +78,5 @@ void loop(){
   previousOnOffSwitchState = onOffSwitchState;
 }
 ```
+
+https://github.com/Baelyn1/Arduino/blob/main/IMG_2561.JPG
