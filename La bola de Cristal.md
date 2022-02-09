@@ -4,7 +4,7 @@ La bola de cristal es un projecto que hize con mi compañero Hazla donde el hizo
 
 Los problemas que tuvimos o que tuve yo fueron pequeños errores de tipografia en el codigo que arregle de inmediato y el problema que tuvo mi compañero que nos afecto a los dos fue que nos liamos con los cables y despues de pedir ayuda a nuestro profesor lo soluciono.
 
-El codigo de todo el formato es: 
+El codigo de todo el formato es: https://github.com/Baelyn1/Arduino/blob/main/La_bola_de_cristal.ino
 
 Unas imaguenes de ejemplos de palabras que se hizo en la maquina:
 
