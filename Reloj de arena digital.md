@@ -22,6 +22,6 @@ https://github.com/Baelyn1/Arduino/blob/main/Reloj_de_arena_digital.ino
 
 En la variacion que hicimos no tocamso nada del circuito pero modificamso el codigo, el canvio que provoco fue que el orden de activacion de las luces de derecha a izquierda fuese de izquierda a derecha.
 
-https://github.com/Baelyn1/arduino-1/blob/main/Reloj_de_arena_digital_2.0_.ino.ino
+https://github.com/Baelyn1/Arduino/blob/main/Reloj_de_arena_digital_2.0_.ino
 
 
