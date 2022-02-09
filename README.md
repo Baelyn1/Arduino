@@ -18,7 +18,7 @@ Lampara de varios colores: https://github.com/Baelyn1/Arduino/blob/main/Lampara%
 
 La bola de cristal: https://github.com/Baelyn1/Arduino/blob/main/La%20bola%20de%20Cristal.md#iniciacion-o-explicacion
 
-
+Molinillo motorizado: https://github.com/Baelyn1/Arduino/blob/main/Molinillo%20Motorizado.md#molinillo
 
 
 
