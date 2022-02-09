@@ -28,7 +28,9 @@ Joistic: https://github.com/Baelyn1/Arduino/blob/main/Joistic.md#el-joistic
 
 Lámpara táctil: https://github.com/Baelyn1/Arduino/blob/main/L%C3%A1mpara%20t%C3%A1ctil.md#proceso
 
-Sensor de humedad: https://github.com/Baelyn1/Arduino/blob/main/Sensor%20de%20humedad.md#sensor-de-humedad-y-temperatura
+Sensor de humedad y temperatura: https://github.com/Baelyn1/Arduino/blob/main/Sensor%20de%20humedad.md#sensor-de-humedad-y-temperatura
+
+Cerrojo de puerta: https://github.com/Baelyn1/Arduino/blob/main/Cerrojo%20de%20puerta.md#proceso
 
 
 La variacion se hizo cogiendo varias partes del codigo de nave espacial y con estos hacer modificaciones que en si hacen que el joistic cada vez que se apriete como si fuera un boton
