@@ -14,7 +14,7 @@ Medidor de amor: https://github.com/Baelyn1/Arduino/blob/main/Medidor%20de%20amo
 
 Altavoz de villancicos: https://github.com/Baelyn1/Arduino/blob/main/Altavoz%20de%20villancicos.MD#codigo
 
-
+Lampara de varios colores: https://github.com/Baelyn1/Arduino/blob/main/Lampara%20de%20varios%20colores.md#pum-pulse-width-modulation
 
 
 
