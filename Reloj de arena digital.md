@@ -7,15 +7,15 @@ En el projecto de el Reloj de arena digital, yo y mi compañero de trabajp Hanzl
 
 
 Este es el circuito que construyo mi compañero:
-https://github.com/Hanzla55/Arduino/blob/main/reloj%204.jpg
+https://github.com/Baelyn1/Arduino/blob/main/reloj%204.jpg
 
 
 
 
 
 En el proceso de programar el codigo del circuito yo solo encontre un problema al final que havia esctito una parte de prevSwitchState havia escrito una parte de tipografia incorrecta.
-https://github.com/Baelyn1/arduino-1/blob/main/Reloj_de_arena_digital.ino.ino
 
+https://github.com/Baelyn1/Arduino/blob/main/Reloj_de_arena_digital.ino
 
 
 ## Variaciones
