@@ -17,6 +17,7 @@ Intensidad = Voltaje Dividido Resistencia
   
 https://github.com/Baelyn1/Arduino/blob/main/El_molinillo.ino
 
+# Imagen
 
 
 En el proceso de programacion no han avido problemas de ningun tipo y aparte de algunos problemas con la conecsion de los cables no ha avido ningun tipo de inconveniente añadido
