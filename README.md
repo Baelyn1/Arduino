@@ -24,6 +24,16 @@ Reloj de arena digital: https://github.com/Baelyn1/Arduino/blob/main/Reloj%20de%
 
 Zoótropo: https://github.com/Baelyn1/Arduino/blob/main/Zo%C3%B3tropo.md#zo%C3%B3tropo
 
+Joistic: https://github.com/Baelyn1/Arduino/blob/main/Joistic.md#el-joistic
+
+Lámpara táctil: https://github.com/Baelyn1/Arduino/blob/main/L%C3%A1mpara%20t%C3%A1ctil.md#proceso
+
+Sensor de humedad: https://github.com/Baelyn1/Arduino/blob/main/Sensor%20de%20humedad.md#sensor-de-humedad-y-temperatura
+
+
+La variacion se hizo cogiendo varias partes del codigo de nave espacial y con estos hacer modificaciones que en si hacen que el joistic cada vez que se apriete como si fuera un boton
+
+
 
 
 
